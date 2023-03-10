@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
-String apiKey = "";
+String apiKey = "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";
 
 Future sendTextCompletionRequest(String message) async {
   String baseUrl = "https://api.openai.com/v1/completions";

@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         backgroundColor: Color(0xFF212023),
         centerTitle: true,
-        title: Text("Not Chat GPT"),
+        title: Text("Cybermint AI"),
       ),
       body: Center(
         child: SingleChildScrollView(
